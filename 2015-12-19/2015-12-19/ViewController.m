@@ -34,7 +34,7 @@
 *
 * Ask User for input
 *
-*/
+*/ 
 
 - (IBAction)onInputButtonPress:(id)sender {
     NSOpenPanel *panel = [NSOpenPanel openPanel];
